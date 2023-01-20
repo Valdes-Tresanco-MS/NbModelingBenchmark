@@ -1,7 +1,7 @@
 # Nanobody Modeling Benchmark
-To reproduce the TM and GDT scores and RMSD (by position, by region and global) run [BenchmarkResultsAnalysis.ipynb](https://github.com/Valdes-Tresanco-MS/NbModelingBenchmark/BenchmarkResultsAnalysis.ipynb)
+To reproduce the TM and GDT scores and RMSD (by position, by region and global) run [BenchmarkResultsAnalysis.ipynb](https://github.com/Valdes-Tresanco-MS/NbModelingBenchmark/blob/main/BenchmarkResultsAnalysis.ipynb)
 
-To reproduce the article figure run [BenchmarkResultsFigures.ipynb](https://github.com/Valdes-Tresanco-MS/NbModelingBenchmark/BenchmarkResultsFigures.ipynb)
+To reproduce the article figure run [BenchmarkResultsFigures.ipynb](https://github.com/Valdes-Tresanco-MS/NbModelingBenchmark/blob/main/BenchmarkResultsFigures.ipynb)
 
 ## Project structure
 - alphafold2_MSA_coverage - Contains AF2 MSA coverage in png format
